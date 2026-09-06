@@ -1,0 +1,9 @@
+MODEL_NAME = "tiny.en"
+
+OLLAMA_MODEL = "llama3.2:1b"
+
+LANGUAGE = "en"
+
+SAMPLE_RATE = 16000
+
+TTS_SAMPLE_RATE = 24000
