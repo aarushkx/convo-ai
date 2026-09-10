@@ -1,1 +1,5 @@
 faster-whisper
+ollama
+kokoro
+numpy
+webrtcvad-wheels
