@@ -1,0 +1,4 @@
+-r ../model/requirements.txt
+fastapi
+uvicorn
+websockets
